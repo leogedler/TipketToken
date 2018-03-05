@@ -1,16 +1,15 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// 'TipketToken' 'Example Fixed Supply Token' token contract
+// 'TipketToken' Fixed Supply Token token contract
 //
 // Symbol      : TIP
 // Name        : TipketToken
 // Total supply: 1,000,000.000000000000000000
 // Decimals    : 18
 //
-// Enjoy.
 //
-// (c) BokkyPooBah / Bok Consulting Pty Ltd 2017. The MIT Licence.
+// MIT Licence.
 // ----------------------------------------------------------------------------
 
 
